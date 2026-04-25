@@ -166,7 +166,7 @@ O layout é responsivo e se adapta a diferentes tamanhos de tela:
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Fabrício** como projeto acadêmico para a **UNIVALI – Universidade do Vale do Itajaí**.
+Desenvolvido por **Fabrício** e **Eduardo** como projeto acadêmico para a **UNIVALI – Universidade do Vale do Itajaí**.
 
 ---
 
